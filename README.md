@@ -4,4 +4,4 @@
 * [`karate-club.csv`](https://github.com/s2tephen/network-datasets/blob/master/classic-data/karate-club.csv) - [Zachary's karate club](https://en.wikipedia.org/wiki/Zachary%27s_karate_club) (34 nodes, 78 edges, unlabeled)
 
 ## Popular culture
-* [`risk-territories.csv`](https://github.com/s2tephen/network-datasets/blob/master/pop-culture/risk-territories.csv) - *Risk* board game adjacent territories
+* [`risk-territories.csv`](https://github.com/s2tephen/network-datasets/blob/master/pop-culture/risk-territories.csv) - *Risk* board game adjacent territories (42 nodes, 83 edges)
