@@ -3,6 +3,7 @@
 * [`florentine-families.csv`](https://github.com/s2tephen/network-data/blob/master/classic-data/florentine-families.csv) — Florentine families (15 nodes, 20 edges)
 * [`karate-club.csv`](https://github.com/s2tephen/network-data/blob/master/classic-data/karate-club.csv) - [Zachary's karate club](https://en.wikipedia.org/wiki/Zachary%27s_karate_club) (34 nodes, 78 edges, unlabeled)
 * [`les-miserables.csv`](https://github.com/s2tephen/network-data/blob/master/classic-data/les-miserables.csv) - Les Misérables character co-occurence (77 nodes, 254 edges)
+* [`southern-women.csv`](https://github.com/s2tephen/network-data/blob/master/classic-data/southern-women.csv) - Davis Southern women (32 nodes, 93 edges, bipartite)
 
 ## Historical data
 * [`paul-revere.csv`](https://github.com/s2tephen/network-data/blob/master/historical-data/paul-revere.csv) - Boston's revolutionary movement, based on [Kieran Healy's analysis](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/) (254 nodes, 9706 edges)
